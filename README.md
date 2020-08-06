@@ -41,7 +41,7 @@ Use the table below to key in your name and programming language used to generat
 | Olayemi Rotimi| Python 3.8
 |  Ibiyinka Daramola        |  Python 3.8             | 
 | Khatendra Reang|        Bash |
- | Chavhan Rajesh | Python3 |   
+| Chavhan Rajesh | Python3   |  Python 3.8(https://www.python.org/downloads/release/python-385/)
 # Workflow
 ![Workflow](https://github.com/winfrednyoroka/TeamSanger_HackBio2020/blob/master/Flowchart.png)
 
