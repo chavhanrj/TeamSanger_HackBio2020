@@ -19,6 +19,7 @@ Please kindly add your names here to have a comprehensive list of the Sanger Tea
 7. Ankita Kumari
 8. Ibiyinka Daramola
 9. Adepoju Ayodeji
+10.Chavhan Rajesh
 >>>>>>> Stashed changes
 
 ## Programming language
@@ -39,7 +40,7 @@ Use the table below to key in your name and programming language used to generat
 | Olayemi Rotimi| Python 3.8
 |  Ibiyinka Daramola        |  Python 3.8             | 
 | Khatendra Reang|        Bash |
-  
+ | Chavhan Rajesh | Python3 |   
 # Workflow
 ![Workflow](https://github.com/winfrednyoroka/TeamSanger_HackBio2020/blob/master/Flowchart.png)
 
